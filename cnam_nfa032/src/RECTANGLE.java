@@ -41,3 +41,5 @@ public class RECTANGLE {
 		return s;
 	}
 }
+
+//Pour voir
